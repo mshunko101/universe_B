@@ -1,5 +1,5 @@
 <p align="center">
- <img src="/0. DOCS/Медиа/4dd2c199a7411f1a3b0d2a7310ecb68_1.jpeg"/>
+ <img src="/0. DOCS/Медиа/4dd2c199a7411f1a3b0d2a7310ecb68_1.jpeg" width=800/>
 </p>
 
 
@@ -36,6 +36,3 @@
 
 
 
-<p align="center">
-  [![Время](https://img.youtube.com/vi/PjfvMaMuQn4/0.jpg)](https://youtu.be/PjfvMaMuQn4)
-</p>
